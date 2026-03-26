@@ -4,7 +4,7 @@ export default function NovaHandymanSite() {
   return (
     <div style={{padding:20,fontFamily:'Arial'}}>
       <h1>NOVA Handyman Services</h1>
-      <p>Reliable Handyman Services in Indianapolis & Surrounding Areas</p>
+      <p>Reliable Handyman Services in Lafayette & Surrounding Areas</p>
       <p>Call Now: 765-637-6306</p>
       <h2>Spring Services</h2>
       <ul>
